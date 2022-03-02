@@ -1,11 +1,9 @@
+**Juan Lima's design signature**
 ```
 @nkhklkstksch
-👀 I’m interested in ...
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+
+👀 I’m interested in communitary production
+🌱 I’m currently learning tektology
+💞️ I’m looking to collaborate on unlicensed software
+📫 nkhklkstksch@icloud.com
 ```
-<!---
-nkhklkstksch/nkhklkstksch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
