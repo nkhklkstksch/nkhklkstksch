@@ -1,7 +1,6 @@
-**nkhklkstksch signature**
+**design signature**
 
 ```
-👀 I’m interested in communitary production
-🌱 I’m currently making tektology
+👀 i’m interested in communitary production
 📫 nkhklkstksch@icloud.com
 ```
